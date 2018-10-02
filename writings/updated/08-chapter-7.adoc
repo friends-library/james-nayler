@@ -81,6 +81,7 @@ And as this document contains James Nayler`'s belief concerning Christ (which,
 a few years after, became a point of much controversy),
 the following excerpt is thought worthy of notice.
 
+[.content-signed-section]
 Concerning Jesus Christ: +++[+++says Nayler]
 He is the eternal Word of God, by whom all things were made and are upheld,
 who was before all time, but was manifested in time for the recovery of lost man.
@@ -330,6 +331,8 @@ who made their report on the 5th of December.
 On the 17th of the same month (after much debate and contradiction in the parliament,
 many not approving the severity used against him), they came to the following resolution:
 
+[quote]
+____
 That James Nayler be set in the stocks, with his head in the stocks,
 in the Palace-yard, Westminster, during the space of two hours, on Thursday next,
 and then be whipped by the hangman as he is conveyed through the streets of London,
@@ -348,6 +351,7 @@ and kept from the society of all people,
 and put to hard labor till he shall be released by parliament;
 during which time he is to be debarred the use of pen, ink, and paper,
 and shall have no relief but what he earns by his daily labor.
+____
 
 It was long before parliament could agree upon this sentence;
 for though blasphemy was supposed to be committed,
@@ -644,8 +648,8 @@ quickly produced a return of their friendship and fellowship.
 After his release, he published several more statements of recantation.
 One of which is as follows:
 
-[.small-break]
-'''
+[.embedded-content-document.paper]
+--
 
 Glory to God Almighty, who rules in the heavens,
 and in whose hands are all the kingdoms of the earth; who raises up,
@@ -771,10 +775,15 @@ and of whom I had so largely drank, and of which I now drink in measure).
 To Him be the glory of all, and to Him every tongue must confess, as Judge and Savior,
 God over all, blessed forever.
 
+--
+
 [.offset]
 Nayler added to this an exhortation to the reader how to behave if, at any time,
 he comes to be tempted to sin, and also a warning not to rely too much upon gifts,
 wisdom, and knowledge, and then concluded with these words:
+
+[.embedded-content-document]
+--
 
 These things I have learned in the depths and in secret, when I was alone,
 and now declare openly in the day of Your mercy, O Lord.
@@ -785,6 +794,8 @@ and glory forevermore. Amen.
 
 [.signed-section-signature]
 James Nayler
+
+--
 
 [.offset]
 He wrote another paper wherein he related at large,
@@ -798,6 +809,9 @@ yet coming to the city of London (just prior to his fall) he entered
 it with the greatest fear that ever he knew in any place,
 foreseeing in spirit (as he relates) something to befall him there,
 but not knowing what it might be:
+
+[.embedded-content-document.paper]
+--
 
 Yet I had at that time (he continues) the same
 presence and power I had known before,
@@ -841,10 +855,15 @@ whom I had formerly served, that He would bring me through it, and to the end of
 and that I should again see the day of my redemption from under it all.
 And this quieted my soul in my greatest tribulation.
 
+--
+
 [.offset]
 The author then,
 seriously exhorting others who might also fall into great temptation,
 concludes with these words:
+
+[.embedded-content-document]
+--
 
 He who has saved my soul from death thus far,
 and has lifted my feet up out of the pit, even to Him be glory forever.
@@ -853,10 +872,15 @@ Let every troubled soul trust in Him, for His mercy endures forever.
 [.signed-section-signature]
 James Nayler
 
+--
+
 [.offset]
 That he came to a perfect recovery out from having been so deceived,
 seems to appear plainly by the following thanksgiving to God for His mercies,
 which he also published after his fall:
+
+[.embedded-content-document]
+--
 
 It is in my heart to praise You, O my God.
 Let me never forget You, what You have been to me in the night,
@@ -917,6 +941,8 @@ and have slain the boaster, and showed him the vanity that vexes Your spirit.`"
 [.signed-section-signature]
 James Nayler
 
+--
+
 This plainly appears to be a poetical piece,
 as the author makes use of allegorical sayings throughout to
 signify the great anguish and tribulation he had been under,
@@ -949,7 +975,9 @@ some of which have already been inserted,
 but the following letter has since come to my hand.
 It is a letter to his friends, written with his own hand:
 
-[.salutation]
+[.embedded-content-document.letter]
+--
+
 Dear brethren,
 
 My heart is broken this day for the offense
@@ -977,8 +1005,14 @@ I am willing to confess my offense, that God`'s love may arise in all hearts as 
 if it be His will, who alone can remove what stands in the way.
 I do not intend to cover anything; God is my witness herein.
 
+--
+
+[.offset]
 He also wrote several other confessions of his faults about this time, in one of which,
 amongst others, I find these words:
+
+[.embedded-content-document]
+--
 
 And concerning you, the tender plants of my Father,
 who have suffered because of me, or with me,
@@ -992,18 +1026,28 @@ The Lord knows, it was never in my heart to cause you to mourn,
 whose suffering is my greatest sorrow that ever yet came upon me,
 for you are innocent herein.
 
+--
+
 [.offset]
 When he had finished this letter, and set his name,
 he then wrote the following postscript:
+
+[.embedded-content-document]
+--
 
 I beseech you (all that can),
 to receive this even as you would desire to be received of the Lord; and as for the rest,
 may the Lord give me patience to suffer till He makes up the breach.
 
+--
+
 [.offset]
 While he was in Bridewell, he wrote to the parliament,
 who had punished him as a blasphemer,
 to let them know his true opinion concerning Jesus Christ.
+
+[.embedded-content-document]
+--
 
 Christ Jesus (the Immanuel, of whose sufferings the Scriptures declare),
 Him alone I confess before men.
@@ -1028,6 +1072,8 @@ daily finding it to be my work to seek peace in truth with all men in that Spiri
 [.signed-section-signature]
 James Nayler
 
+--
+
 After this,
 hearing that some had wronged him concerning something
 he had spoken to the committee of the parliament,
@@ -1036,6 +1082,9 @@ declaring himself further concerning his belief of Christ, and His sufferings, a
 He also denounced a paper which someone had published anonymously,
 under the title of _James Nayler`'s Recantation,_
 wherein they had much perverted his words.
+
+[.embedded-content-document.paper]
+--
 
 And with regard +++[+++he writes]
 to the printing of that paper called _James Nayler`'s Recantation,_ it was not done by me,
@@ -1084,6 +1133,8 @@ to suffer or rejoice, as God wills, even so be it, without murmuring.
 [.signed-section-signature]
 James Nayler
 
+--
+
 This is certain,
 that James Nayler came to very great sorrow and deep humiliation of mind; and therefore,
 because God forgives the transgressions of the penitent, and blots them out,
@@ -1111,8 +1162,8 @@ diffuse their poison over the better part of his kingdom,
 which none but a royal authority can stifle,`"
 so Nayler responded in the following words:
 
-[.small-break]
-'''
+[.embedded-content-document]
+--
 
 What has happened to your spiritual weapons?
 Have not your teachers told people of the strength of Truth, and the power of godliness?
@@ -1223,8 +1274,7 @@ but the old accuser of the brethren is he that works strongly in you.
 And in that light which you reproach, you are seen to be the man that makes lies,
 and "`carries tales to shed blood.`" Ezek. 22:9.
 
-[.small-break]
-'''
+--
 
 This and much more did James Nayler write to
 answer the falsehoods of which he was accused,
@@ -1244,8 +1294,8 @@ bears this testimony of him, "`that he was revived by the Lord`'s power,
 and in measure restored to his ancient testimony,
 which he bore publicly in various parts of the nation as the Lord enabled him,
 both in his ministry and writings.
-And,`" adds Whitehead, "`he walked in much brotherly love and simplicity among us,
-until his end came.`"
+And,`" adds Whitehead,
+"`he walked in much brotherly love and simplicity among us, until his end came.`"
 
 At last, departing from the city of London,
 about the latter end of the Eighth month 1660, he headed North,
@@ -1271,8 +1321,8 @@ may the Lord refresh your souls.`"
 About two hours before his death,
 he spoke the following words in the presence of several witnesses:
 
-[.small-break]
-'''
+[.embedded-content-document.letter]
+--
 
 There is a spirit which I feel, that delights to do no evil,
 nor to revenge any wrong, but delights to endure all things,
@@ -1296,6 +1346,8 @@ I have fellowship therein with those who lived
 in dens and in desolate places of the earth,
 who through death obtained this resurrection, and eternal holy life.
 
+--
+
 [.asterism]
 '''
 
@@ -1307,8 +1359,8 @@ and was buried in Thomas Parnel`'s burying ground at King`'s Rippon.
 In conclusion, I borrow the words of Joseph Wyeth,
 from whose writings the following is taken:
 
-[.small-break]
-'''
+[.embedded-content-document]
+--
 
 James Nayler was a man who had been highly favored of
 God with a good degree of grace,
@@ -1344,3 +1396,5 @@ temptation because the tempted may go from and neglect the teaching of it.
 For we see with David and Peter that,
 as their transgression came by their departing from this infallible guide,
 the Holy Spirit, so their recovery was only by it.
+
+--
