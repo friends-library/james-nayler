@@ -1,7 +1,7 @@
 [#ch5, short="Milk for Babes, Meat for Strong Men"]
 == Chapter V. Milk for Babes / And Meat for Strong Men
 
-[quote, , Isa. 25:6]
+[quote.scripture, , Isa. 25:6]
 ____
 "`A banquet of aged wine; the best of meats and the finest of wines.`"
 ____
