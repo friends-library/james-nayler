@@ -1,1 +1,6 @@
 #_who_they_are_that_are_under_the_law_who_they_are_that_have_made_void_the_law_against_themselves_and_who_they_are_that_are_under_grace span em { font-size: 0.9em; }
+
+/* avoid last page having only one line */
+.trim--m #appendix-bio h2 {
+  margin-top: 2.3in;
+}

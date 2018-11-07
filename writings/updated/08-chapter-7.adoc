@@ -1,3 +1,4 @@
+[#appendix-bio]
 == Appendix: A Brief Biography of James Nayler
 
 [.chapter-subtitle--blurb]
@@ -978,6 +979,7 @@ It is a letter to his friends, written with his own hand:
 [.embedded-content-document.letter]
 --
 
+[.salutation]
 Dear brethren,
 
 My heart is broken this day for the offense
