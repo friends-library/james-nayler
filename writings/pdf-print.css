@@ -2,5 +2,5 @@
 
 /* avoid last page having only one line */
 .trim--m #appendix-bio h2 {
-  margin-top: 2.3in;
+  margin-top: 2.1in;
 }
