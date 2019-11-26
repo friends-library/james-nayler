@@ -1,30 +1,37 @@
-.title-wrap {
-  transform: translateY(-0.25in);
+#__id__ .title-wrap {
+  transform: translateY(-0.85in);
 }
-.title-wrap p {
+#__id__ .title-wrap p {
   margin: 0;
   padding-bottom: 0.05in;
 }
-.initials {
+#__id__ .initials {
   opacity: 0.45;
 }
-.title-wrap .selected-writings {
+#__id__ .title-wrap .selected-writings {
   font-style: italic;
   font-size: 0.23in;
-  padding-top: 0.65in;
+  margin-top: -5%;
 }
-.title-wrap .james-nayler {
+.prince #__id__ .title-wrap .selected-writings {
+  margin-top: 2%;
+}
+#__id__ .title-wrap .james-nayler {
   font-size: 0.26in;
 }
-.title-wrap .with-sketch {
+#__id__ .title-wrap .with-sketch {
   font-style: italic;
   font-size: 0.14in;
   padding-top: 0.05in;
 }
-.author {
-  padding-top: 0.1in;
-  transform: scale(0.85);
+
+#__id__ .author {
+  max-width: 5in;
 }
-.author__name i {
+#__id__ .author__name {
+  margin-left: -6%;
+}
+#__id__ .author__name i {
   font-size: 80%;
 }
+
