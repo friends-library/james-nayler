@@ -1,24 +1,26 @@
 #__id__ .title-wrap {
-  transform: translateY(-0.85in);
+  transform: translateY(-0.45in);
 }
+
 #__id__ .title-wrap p {
   margin: 0;
   padding-bottom: 0.05in;
 }
+
 #__id__ .initials {
   opacity: 0.45;
 }
+
 #__id__ .title-wrap .selected-writings {
   font-style: italic;
   font-size: 0.23in;
-  margin-top: -5%;
+  margin-top: -6%;
 }
-.prince #__id__ .title-wrap .selected-writings {
-  margin-top: 2%;
-}
+
 #__id__ .title-wrap .james-nayler {
   font-size: 0.26in;
 }
+
 #__id__ .title-wrap .with-sketch {
   font-style: italic;
   font-size: 0.14in;
@@ -28,10 +30,13 @@
 #__id__ .author {
   max-width: 5in;
 }
+
 #__id__ .author__name {
   margin-left: -6%;
 }
+
 #__id__ .author__name i {
   font-size: 80%;
 }
+
 
