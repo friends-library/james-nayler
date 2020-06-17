@@ -82,7 +82,9 @@ And as this document contains James Nayler`'s belief concerning Christ (which,
 a few years after, became a point of much controversy),
 the following excerpt is thought worthy of notice.
 
-[.content-signed-section]
+[.embedded-content-document.paper]
+--
+
 Concerning Jesus Christ: +++[+++says Nayler]
 He is the eternal Word of God, by whom all things were made and are upheld,
 who was before all time, but was manifested in time for the recovery of lost man.
@@ -103,6 +105,8 @@ And none can witness redemption further than Christ is
 thus revealed in them to set them free from sin;
 which Christ I witness to be revealed in me in measure (Gal.
 1:16. 1 Cor. 8:5. Col. 1:27).
+
+--
 
 After the termination of his confinement,
 Nayler continued traveling in the service of the gospel in the north of England.
