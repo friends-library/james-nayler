@@ -1,21 +1,19 @@
-[#ch5, short="Milk for Babes, Meat for Strong Men"]
+[short="Milk for Babes, Meat for Strong Men"]
 == Chapter V. Milk for Babes / And Meat for Strong Men
 
-[quote.scripture, , Isa. 25:6]
+[quote.section-epigraph, , Isa. 25:6]
 ____
 "`A banquet of aged wine; the best of meats and the finest of wines.`"
 ____
 
-[.small-break]
-'''
-
-__O come young men and maidens, old men and babes,
+[.emphasized]
+O come young men and maidens, old men and babes,
 and drink abundantly of the streams that run from the fountain,
 that you may feel a wellspring of living water
 in yourselves springing up to eternal life;
 so that as He lives (even Christ Jesus) from whom all the springs do come,
 so you may live also, and partake of His glory,
-who has ascended to the right hand of the Father, far above principalities and powers.__
+who has ascended to the right hand of the Father, far above principalities and powers.
 
 [.small-break]
 '''

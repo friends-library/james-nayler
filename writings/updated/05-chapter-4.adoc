@@ -1,14 +1,14 @@
-[#ch4, short="A Door Opened to the Imprisoned Seed"]
+[short="A Door Opened to the Imprisoned Seed"]
 == Chapter IV. A Door Opened / To the Imprisoned Seed in the World
 
-[.chapter-subtitle--blurb]
+[.heading-continuation-blurb]
 And the way of freedom sent out into the world by the Spirit of Truth,
 in love to the sheep that have long been lost;
 to serve all the simple who seek the life of what they profess,
 and to show the proud and false in heart the
 cause why they are shut out of Truth`'s power.
 
-[quote.scripture, , John 8:32]
+[quote.section-epigraph, , John 8:32]
 ____
 "`And you shall know the truth, and the truth shall make you free.`"
 ____

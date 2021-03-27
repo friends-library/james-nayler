@@ -1,4 +1,4 @@
 /* don't de-emphasize third line of wacky "Love to the Lost" header */
-#ch6 .line-3 {
+.chapter-7 .chapter-heading .heading-segment--3 {
   font-size: 0.9em;
 }

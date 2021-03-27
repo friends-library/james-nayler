@@ -1,7 +1,7 @@
-[#ch6]
+[short="Love to the Lost"]
 == Chapter VI. Love to the Lost / And a Hand held forth to the Helpless / to Lead out of the Dark
 
-[.emphasized.centered]
+[.heading-continuation-blurb]
 Wherein is plainly held out:
 Several particular things, as they are learned of Christ;
 and are most needful to be known by all who profess godliness;
@@ -12,10 +12,7 @@ of that which the world has only in words;
 which being received, satisfies the weary soul,
 and makes the creature well-pleasing to his Maker.
 
-[.small-break]
-'''
-
-[.emphasized.centered]
+[.heading-continuation-blurb]
 We have found Him whom our soul loves; And greater is He in us than he that is in the world.
 
 === Let Him that Reads Understand

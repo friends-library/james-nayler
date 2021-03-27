@@ -1,19 +1,15 @@
-[#appendix-bio]
 == Appendix: A Brief Biography of James Nayler
 
-[.chapter-subtitle--blurb]
+[.heading-continuation-blurb]
 Relating His Early Piety and Eminence in the Society of Friends,
 His Tragic Fall Evinced in the Bristol Incident,
 His Open Acknowledgement of Error and Sincere Repentance,
 and His Subsequent Restoration to Fellowship and Usefulness in the Body of Christ.
 
-[.offset]
-__Chiefly Compiled from: The History of the Rise, Increase,
+[.heading-continuation-blurb]
+Chiefly Compiled from: The History of the Rise, Increase,
 and Progress of the Christian People Called Quakers--by William Sewel;
-The Life of James Nayler--by Joseph Bevan Gurney; and The Memoirs of John Whiting.__
-
-[.small-break]
-'''
+The Life of James Nayler--by Joseph Bevan Gurney; and The Memoirs of John Whiting.
 
 James Nayler was born of honest parents, in the parish of Ardesley,
 near Wakefield in Yorkshire, about the year 1618.
